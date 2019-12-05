@@ -19,3 +19,5 @@ This will launch gazebo with Turtlebot2 inside the simulated world. It will also
 
 Here is a short video of the navigating robot:
 
+![home-service-robot](https://user-images.githubusercontent.com/1855225/70272729-fc490100-1765-11ea-871d-ed0fad8ba037.gif)
+
