@@ -1,0 +1,5 @@
+<launch>
+    <param name="/move_base/DWAPlannerROS/yaw_goal_tolerance"  value="0.5"/>
+    <node pkg="pick_objects" type="pick_objects" name="pick_objects" output="screen">
+    </node>
+</launch>
