@@ -12,7 +12,7 @@ Clone the repo and inside the repo folder run
 
 ```
 rosdep install --from-paths src --ignore-src -r -y
-./home-service.sh
+./scripts/home-service.sh
 ```
 
 This will launch gazebo with Turtlebot2 inside the simulated world. It will also launch rviz where you should be able to see the turtlebot navigate to the marker pickup location, pause for 5 seconds, and then navigate to the dropoff location.
